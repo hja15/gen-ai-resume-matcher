@@ -9,3 +9,5 @@ The system combines document understanding, structured generation, and semantic 
 - Produce personalized, actionable resume improvement suggestions using few-shot prompting
 
 This project simulates how modern generative AI systems can streamline recruiting and personal branding workflows, demonstrating practical applications of LLMs in intelligent decision-support tools.
+<br/>
+[View Notebook](https://github.com/hja15/gen-ai-resume-matcher/blob/main/5dgai-notebook-heatheranderson.ipynb)
